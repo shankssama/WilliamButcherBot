@@ -48,7 +48,7 @@
 </h2>
 
 ```console
-thehamkercat@arch:~$ git clone https://github.com/thehamkercat/WilliamButcherBot
+thehamkercat@arch:~$ git clone https://github.com/Shankssama/WilliamButcherBot
 thehamkercat@arch:~$ cd WilliamButcherBot
 thehamkercat@arch:~$ pip3 install -U -r requirements.txt
 thehamkercat@arch:~$ cp sample_config.py config.py
@@ -86,7 +86,7 @@ thehamkercat@arch:~$ python3 -m wbb
 </h3>
 
 ```console
-thehamkercat@arch:~$ git clone https://github.com/thehamkercat/WilliamButcherBot
+thehamkercat@arch:~$ git clone https://github.com/Shankssama/WilliamButcherBot
 thehamkercat@arch:~$ cd WilliamButcherBot
 thehamkercat@arch:~$ pip3 install pyrogram TgCrypto
 thehamkercat@arch:~$ python3 str_gen.py
